@@ -1,5 +1,3 @@
-// Assignment Code
-
 function generatePassword() {
 
 
